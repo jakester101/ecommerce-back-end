@@ -11,7 +11,7 @@
   
   ## Installation
   
-  Install the database using mySQL and then seed it using "node seeds/index.js". The .env file will need to bed edited to your own credentials. Install npm packages and launch the server using nodemon or node server start.
+  Install the database using mySQL and then seed it using "node seeds/index.js". The .env file will need to be edited to your own credentials. Install npm packages and launch the server using nodemon or node server start.
   
   ## Usage 
   
